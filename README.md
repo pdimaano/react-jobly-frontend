@@ -2,9 +2,11 @@
 
 **Live Demo:** https://r28-pdimaano-jobly.surge.sh/
 
----
-
 ![Site Image](images/image-1.png)
+
+### React Component Design
+
+![React Components](images/react.png)
 
 - Deployed using Surge (frontend), Render (backend) and ElephantSQL (database)
 - JWT tokens ensure that only certain users can perform certain actions and/or access specific routes
